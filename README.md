@@ -1,6 +1,6 @@
 # Bill Tracker - Backend
 
-## 0. Update
+## 0. Transition
 
 This repository is no longer maintained. It's been moved here: https://github.com/billtracker/billtracker-backend
 
