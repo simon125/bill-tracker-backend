@@ -1,5 +1,9 @@
 # Bill Tracker - Backend
 
+## 0. Update
+
+This repository is no longer maintained. It's been moved here: https://github.com/billtracker/billtracker-backend
+
 ## 1. Introduction
 This project contains whole Backend part the is required for BillTracker application, including auth, user management and expenses calculations.
 
